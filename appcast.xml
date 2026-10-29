@@ -3,6 +3,15 @@
   <channel>
     <title>Clipboard History</title>
     <item>
+      <title>Version 0.1.2</title>
+      <pubDate>Thu, 29 Oct 2026 16:10:08 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The history panel resizes from its edges and corners and keeps its size.</li><li>Drag it by its top edge and it reopens there.</li><li>Copies marked auto-generated, and older password-manager markers, are never recorded.</li><li>Stable order for copies made in the same instant.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/clipboard-history-releases/releases/download/v0.1.2/ClipboardHistory-0.1.2.zip" type="application/octet-stream" sparkle:edSignature="TDtGBQqRT9qcz+4vWBJE/9m8QvXkrt4Sg/bpZFzfQRIDHIvIiSfVm1W1kKJtp9gCZbUvsXRnMcuWUgRJ1ncoBA==" length="6051403"/>
+    </item>
+    <item>
       <title>Version 0.1.1</title>
       <pubDate>Thu, 29 Oct 2026 15:56:27 GMT</pubDate>
       <sparkle:version>3</sparkle:version>
