@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Clipboard History</title>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Thu, 29 Oct 2026 15:43:13 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>HANDOFF: state after the first merge</li><li>Merge app (claude/app-a1ed68)</li><li>Merge release pipeline (claude/release-c3e54e)</li><li>HANDOFF: where the Sparkle key is backed up</li><li>Watcher: drop a copy that changed while being read; store removes files after commit; bounded thumbnails; URL-only copies</li><li>Delete goes through the capture writer: a pending duplicate capture no longer brings a deleted item back</li><li>Panel: short relative time</li><li>Start Sparkle at launch; Check for Updates in the status menu and Settings</li><li>release.sh: feed items only for universal binaries, clean feed clone, no manual publish path</li><li>Merge remote-tracking branch 'origin/claude/release-c3e54e' into claude/app-a1ed68</li><li>Store: file writes and removals inside the database write; image cap keeps older pins</li><li>Order captures against Clear History; credit copies to a password manager seen since the last poll</li><li>release.sh: publish universal builds only</li><li>Paste bump keeps the user's history limit; drop unused panel hint</li><li>release.sh: refuse to publish unnotarized, stage the appcast in printed commands</li><li>App: --show-panel launch flag for QA captures</li><li>App: menu bar item, hotkey, floating panel, paste, settings, dev run script</li><li>release.sh: publish only from a clean tree, push source before uploads</li><li>Core: ClipItem, GRDB history store with FTS5, pasteboard reader, secret rules</li><li>Release pipeline: package, release, Sparkle embed and updater, icon, docs</li><li>Skeleton: SwiftPM package, docs, Info.plist, release placeholders</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/clipboard-history-releases/releases/download/v0.1.0/ClipboardHistory-0.1.0.zip" type="application/octet-stream" sparkle:edSignature="dEQBUJV4vkb8I+3WxCWjib+XZ9kpn/w6GHPIcp338OdBTiG0o5jIC5lmeqVnNysESI/EvgDmu1xtD+CUKobDAQ==" length="6028865"/>
+    </item>
+  </channel>
+</rss>
