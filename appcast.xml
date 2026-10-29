@@ -3,6 +3,15 @@
   <channel>
     <title>Clipboard History</title>
     <item>
+      <title>Version 0.1.3</title>
+      <pubDate>Thu, 29 Oct 2026 16:30:15 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Ignore these apps: an editable list, pre-filled with password managers.</li><li>Delete items older than 1, 7, 30 or 90 days (pinned items are kept).</li><li>Settings shows the Paste from Other Apps permission and backs off when it's denied.</li><li>Choose whether picking an item pastes it or only copies it.</li><li>⌘1–⌘9 paste the first nine items in the panel.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/clipboard-history-releases/releases/download/v0.1.3/ClipboardHistory-0.1.3.zip" type="application/octet-stream" sparkle:edSignature="AqsqUG1R0cehTfri00OXg3qAcsNetJ3x6gcw33fUhPn6huaUHyUa8kU88rBaY1qkXdgtAeCfP1P3nW5UJaPoCQ==" length="6141099"/>
+    </item>
+    <item>
       <title>Version 0.1.2</title>
       <pubDate>Thu, 29 Oct 2026 16:10:08 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
