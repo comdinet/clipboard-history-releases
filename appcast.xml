@@ -3,6 +3,15 @@
   <channel>
     <title>Clipboard History</title>
     <item>
+      <title>Version 0.1.5</title>
+      <pubDate>Fri, 30 Oct 2026 18:13:22 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The panel looks like macOS's own menu bar panels: readable on any background, light or dark.</li><li>Each copy is its own card; the selected one is ringed in blue.</li><li>Clear All in the header, Clipboard Settings at the bottom, Pin/Plain Text/Delete in each card's … menu.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/clipboard-history-releases/releases/download/v0.1.5/ClipboardHistory-0.1.5.zip" type="application/octet-stream" sparkle:edSignature="giqvyx3+M4+nf/0fJDd913uUAvX6TrPYIaLZ/nrnjPjXBr9TRekbBeXBuIRqvBy1bSDXrKwr3DwRPhB/1aIbBQ==" length="6136307"/>
+    </item>
+    <item>
       <title>Version 0.1.4</title>
       <pubDate>Fri, 30 Oct 2026 09:09:02 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
