@@ -3,6 +3,15 @@
   <channel>
     <title>Clipboard History</title>
     <item>
+      <title>Version 0.1.6</title>
+      <pubDate>Mon, 02 Nov 2026 08:19:35 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Clipboard capture recovers properly after you change the paste permission back and forth.</li><li>Clear All stays available while searching.</li></ul>]]></description>
+      <enclosure url="https://github.com/comdinet/clipboard-history-releases/releases/download/v0.1.6/ClipboardHistory-0.1.6.zip" type="application/octet-stream" sparkle:edSignature="2mBplOqOEuGmp01SCtP4crguODYrRkLZ3jdBkz/hXmr+gcaxaDuYorOEyCqkz/ZUFuWORDSQ6hQCsdQ+SRU+Ag==" length="6134196"/>
+    </item>
+    <item>
       <title>Version 0.1.5</title>
       <pubDate>Fri, 30 Oct 2026 18:13:22 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
